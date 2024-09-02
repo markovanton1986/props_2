@@ -3,3 +3,6 @@
 
 
 # Домашнее задание к занятию «Props и Typescript».
+
+
+https://markovanton1986.github.io/props_2/
